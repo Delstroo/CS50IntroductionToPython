@@ -1,12 +1,18 @@
+# def is short for define, this is used when you want to define/create a function.
 def main():
     name = input("What's your name? ")
     hello(name)
 
-# def is short for define, this is used when you want to define/create a function.
 def hello(to= "world"):
     print("Hello!", to)
 
+#If you don't call main your code will not
 main()
+
+
+
+
+
 # Ask user for their name. This will remove whitespace from str and capatlizes user's name
 #name = input("What's your name? ").strip().title()
 
