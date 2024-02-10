@@ -1,6 +1,6 @@
 # CS50IntroductionToPython
 
-This is a course I am following given by harvard.edu.
+This is a course I am following that has been published by by [harvard.edu.](https://cs50.harvard.edu/python/2022/)
 
 ## Week 0
 This week goes through these topics Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. `str`. Parameters. `int`. Operators. Interactive Mode. `float`. `def`. Scope. `return`.
