@@ -26,14 +26,14 @@ You can find the video for that here. [CS50 Harvard Week3.](https://cs50.harvard
 ## Week 4
 The topics talks about `Modules`, `random`, `import`, `from`, `statistics`, `Command-Line Arguments`, `sys`, `sys.argv`, `IndexError`, `sys.exit`, `Slices`, `Packages`, `PyPI`, `pip`, `cowsay`, `APIs`, `requests`, `JSON`, `__name__`.
 
-You can find the video for this here [CS50 Harvard Week4](https://cs50.harvard.edu/python/2022/weeks/4/).
+You can find the video for this here [CS50 Harvard Week4.](https://cs50.harvard.edu/python/2022/weeks/4/)
 
 ## Week 5
 The topics covered in this week are `assert`, `AssertionError`, `pytest`, `Packages`, `__init__.py`.
 
-You can find the video for this here [CS50 Harvard Week5](https://cs50.harvard.edu/python/2022/weeks/5/).
+You can find the video for this here [CS50 Harvard Week5.](https://cs50.harvard.edu/python/2022/weeks/5/)
 
 ## Week 6
 The topics covered in this week are `list`, `open`, `with`, `sorted`, `CSV`, `dict`, `csv`, `PIL`.
 
-You can find the video for this here [CS50 Harvard Week6](https://cs50.harvard.edu/python/2022/weeks/6/).
+You can find the video for this here [CS50 Harvard Week6.](https://cs50.harvard.edu/python/2022/weeks/6/)
