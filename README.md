@@ -21,7 +21,7 @@ You can find the video for that here. [CS50 Harvard Week2.](https://cs50.harvard
 ## Week 3
 The topics that are talked about during the week 3 discussion is: `SyntaxError`, `ValueError`, `try`, `except`, `NameError`, `else`, `pass`, `raise`.
 
-You can find the video for that here. [CS50 Harvard Week3](https://cs50.harvard.edu/python/2022/weeks/3/).
+You can find the video for that here. [CS50 Harvard Week3.](https://cs50.harvard.edu/python/2022/weeks/3/)
 
 ## Week 4
 The topics talks about `Modules`, `random`, `import`, `from`, `statistics`, `Command-Line Arguments`, `sys`, `sys.argv`, `IndexError`, `sys.exit`, `Slices`, `Packages`, `PyPI`, `pip`, `cowsay`, `APIs`, `requests`, `JSON`, `__name__`.
