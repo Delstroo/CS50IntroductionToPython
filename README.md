@@ -36,3 +36,6 @@ You can find the video for this here [CS50 Harvard Week5.](https://cs50.harvard.
 The topics covered in this week are `list`, `open`, `with`, `sorted`, `CSV`, `dict`, `csv`, `PIL`.
 
 You can find the video for this here [CS50 Harvard Week6.](https://cs50.harvard.edu/python/2022/weeks/6/)
+
+## Week 7
+The topics covered in this weeks video are Regular Expressions, `Regexes`, `re`, `re.search`, `re.match`, `re.fullmatch`, `re.sub`, `re.split`, `re.findall`.
